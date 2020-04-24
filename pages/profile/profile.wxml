@@ -1,0 +1,7 @@
+<view class="" hover-class="none" hover-stop-propagation="false">
+    恭喜你发现了这个宝藏！现在封你为最强沙雕王子！
+</view>
+<view class="w-mine" hover-class="none" hover-stop-propagation="false">
+    <image src="/assets/home/shijiancike.jpg" mode="widthFix"/>
+</view>
+
